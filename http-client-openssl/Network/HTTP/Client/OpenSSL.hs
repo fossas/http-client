@@ -140,5 +140,5 @@ defaultOpenSSLSettings = OpenSSLSettings
         , SSL.vpCallback = Nothing
         }
     , osslSettingsCiphers = "DEFAULT"
-    , osslSettingsLoadCerts = SSL.contextLoadSystemCerts
+    , osslSettingsLoadCerts = SSL.contextSetDefaultVerifyPaths
     }
