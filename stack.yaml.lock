@@ -5,12 +5,12 @@
 
 packages:
 - completed:
-    hackage: HsOpenSSL-0.11.4.20@sha256:b88bd010ef07db2f7109b53bee08476c00c9d5b9d01005f0b44477f7eb3ec74d,6091
+    hackage: HsOpenSSL-0.11.7.2@sha256:0b0dde46aa801e01d0894398455c1a19f79a7273c0887659e0b577443ae28cd1,5873
     pantry-tree:
       size: 3287
-      sha256: 9b403d61ef40e8362e8968db16fb46d597bfac6d7ee7c139ff975af06027b6bd
+      sha256: f88e881ff60df6a0daf71a05f0cfd9373b5ce55f4f828add2540a2948dcb25e4
   original:
-    hackage: HsOpenSSL-0.11.4.20
+    hackage: HsOpenSSL-0.11.7.2
 - completed:
     hackage: HsOpenSSL-x509-system-0.1.0.4@sha256:86be72558de4cee8f4e32f9cb8b63610d7624219910cfc205a23326078658676,1777
     pantry-tree:
